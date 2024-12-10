@@ -44,9 +44,7 @@ SimRouter/
 
 ### Imagen de la estructura
 
-Aquí puedes incluir una imagen representativa de la estructura del proyecto:
-
-**[Inserta la imagen aquí]**
+![Captura de pantalla 2024-12-10 a las 20 31 15](https://github.com/user-attachments/assets/d40f5d73-d278-432a-a10e-6d5f3f28313b)
 
 ---
 
